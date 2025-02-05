@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#T2{
+    width: 100%;
+    margin-top:0PX;
+
+
+}
+#T2,th,tr,td{
+    border: 01px black solid;
+    border-collapse: collapse;
+}
+
+#T1{
+    width: 100%;
+    border-collapse: collapse;
+    
+    border: none;
+    margin-top: 0PX;
+    border:0px white solid;
+}
+img{
+    height:200px;
+    width: 200px;
+
+}
+
+
+#tr,#td2,#T1{
+    border: 0PX WHITE solid;
+    border: none;
+}
+
+body{
+    background-color: #f2f2f2;
+}
